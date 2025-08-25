@@ -4,9 +4,10 @@
 
 <h1 align="center">Hi, I'm Abhinay Kumar</h1>
 
+<h3 align="center"><span id="dynamic-role">Software Developer</span></h3>
+
 <p align="center">💻 Passionate about coding, DevOps, automation, and cloud.</p>
 
-<h3 align="center"><span id="dynamic-role">Software Developer</span></h3>
 
 ---
 
