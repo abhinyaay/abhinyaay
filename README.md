@@ -6,7 +6,7 @@
 
 <p align="center">💻 Passionate about coding, DevOps, automation, and cloud.</p>
 
-<h3 align="center">💼 Current Role: <span id="dynamic-role">Software Developer</span></h3>
+<h3 align="center"><span id="dynamic-role">Software Developer</span></h3>
 
 ---
 
