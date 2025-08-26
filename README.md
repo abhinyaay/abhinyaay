@@ -48,7 +48,7 @@
 
 <h3 align="center">👀 Visitor Counter</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinyaay&color=blue& alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=abhinyaay&color=blue" alt="Visitor Count">
 </p>
 
 ---
