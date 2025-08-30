@@ -13,7 +13,7 @@
 
 <h3 align="center">🔗 Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">💼 LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/abhinyaay/">💼 LinkedIn</a> |
   <a href="https://github.com/abhinyaay">🐙 GitHub</a>
 </p>
 
@@ -55,6 +55,6 @@
 
 <h3 align="center">📫 Contact Me</h3>
 <p align="center">
-  ✉️ Email: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
-  💬 LinkedIn: <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">Connect with me</a>
+  ✉️ Email: <a href="mailto:abhinyaay@gmail.com">abhinyaay@gmail.com</a><br>
+  💬 LinkedIn: <a href="https://www.linkedin.com/in/abhinyaay/">Connect with me</a>
 </p>
